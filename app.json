@@ -1,0 +1,16 @@
+{
+    "name": "xyongj-vls",
+    "description": "Deploy V2ray on Heroku.",
+    "keywords": [
+        "V2Ray"
+    ],
+    "env": {
+        "UUID": {
+            "description": "V2Ray UUID",
+            "value": "8506a995-539d-47d7-be38-6714c8d1982e"
+        }
+    },
+    "website": "https://github.com/sadorxy/7vhleuss0",
+    "repository": "https://github.com/sadorxy/7vhleuss0",
+    "stack": "container"
+}
